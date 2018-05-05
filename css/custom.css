@@ -1,0 +1,182 @@
+/*
+
+[Custom Stylesheet]
+
+Project     : SociFly - Multipurpose Social Network HTML5 Template
+Version     : 1.0
+Author      : ThemeLooks
+Author URI  : https://themeforest.net/user/themelooks
+
+You can write your custom css styles in this file...
+
+*/
+.services ul {
+	margin: 0px;
+	padding: 0px;
+}
+.services li {
+	background: #43b9f6;
+	padding: 0px;
+	list-style: none;
+	color: #fff;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.services li:nth-child(2) {
+	background: #6686ff;
+}
+.services li:nth-child(3) {
+	background: #be78ff;
+}
+.services li .ser-inn {
+	padding: 75px 13%;
+}
+.services li .ser-inn h4 {
+	font-weight: bold;
+	color: #fff;
+	font-size: 24px;
+	margin: 0px;
+	margin-bottom: 10px;
+}
+.services li .ser-inn i {
+	font-size: 40px;
+	margin-bottom: 30px;
+}
+.services li .ser-inn i.big {
+	font-size: 240px;
+	position: absolute;
+	right: -80px;
+	top: 10%;
+	color: rgba(255,255,255,0.1);
+}
+.services li .ser-inn p {
+	color: #fff;
+	margin: 0px;
+}
+.services li .ser-inn .gray-border {
+	border-color: #c4c4c4;
+}
+.services li .ser-inn p {
+	font-size: 14px;
+}
+.how_our_site_works{
+	position: relative;
+    left: -55px;
+    box-sizing: border-box;
+    width: 1280px;
+    padding-left: 55px;
+    padding-right: 55px;
+    transition: opacity .5s ease;
+    overflow: hidden;
+    padding-top: 80px !important;
+    padding-bottom: 80px !important;
+    background-color: #f8f8f8 !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.how_our_site_works_container{
+	padding-left: 0;
+    padding-right: 0;
+}
+.how_our_site_works_container_text{
+	box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    padding-top: 0 !important;
+}
+.column-inner{
+	box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 100%;
+    margin-bottom: 0 !important;
+    padding-top: 0 !important;
+}
+.wpb_wrapper{
+
+}
+.app-images {
+    background: url(../img/app-bg.jpg) center center no-repeat;
+    background-size: cover;
+    padding-top: 50px;
+}
+.app-images .text-area {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+.app-images .text-area h1 {
+    color: #fff;
+    font-size: 46px;
+}
+.app-images .text-area p {
+    color: #fff;
+}
+p {
+    margin: 0 0 24px;
+    font-weight: 400;
+    line-height: 27px;
+}
+.app-images .text-area a {
+    border-radius: 30px;
+    padding: 10px 20px;
+    display: inline-block;
+    border: 1px solid #fff;
+    color: #fff;
+    margin-top: 20px;
+    font-size: 12px;
+}
+.clients-says {
+    padding: 80px 0;
+    background: #fff;
+}
+.clients-says .container {
+    overflow: hidden;
+    position: relative;
+}
+.clients-says .section-title {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.clients-says .testi {
+    margin-left: -30px;
+}
+.clients-says .testi .clints-text {
+    text-align: center;
+}
+.clients-says .testi .text-in {
+    border: 1px solid #dfdfdf;
+    border-radius: 6px;
+    padding: 40px;
+    text-align: left;
+    margin-left: 30px;
+}
+.clients-says .avatar {
+    display: inline-block;
+    margin-top: 30px;
+}
+.sponsors {
+    position: relative;
+    padding: 80px 0;
+    background-size: cover !important;
+}
+.sponsors .section-title {
+    margin: 0 0 50px 0;
+    color: #fff;
+    text-transform: uppercase;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
