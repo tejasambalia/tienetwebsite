@@ -5347,6 +5347,10 @@ body.isScrolling #backToTop {
     height: 100%;
 }
 
+.banner--slider{
+    height: 418px !important;
+}
+
 .banner--item {
     height: 100%;
 }
