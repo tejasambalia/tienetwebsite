@@ -180,3 +180,605 @@ p {
     text-align: center;
     font-size: 25px;
 }
+.compny-profile {
+    position: relative;
+}
+.profile-bnr {
+    min-height: 500px;
+    background: url(../img/profile-bnr.jpg) no-repeat;
+    background-size: cover;
+}
+.compny-profile .user-info {
+    background: rgba(0,0,0,0.8);
+    border-radius: 4px;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    max-width: 360px;
+    margin: 70px 0;
+    margin-bottom: 98px;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+}
+.compny-profile .user-info h1 {
+    font-size: 30px;
+    color: #fff;
+    margin: 0px;
+}
+.compny-profile .user-info h1 a {
+    position: relative;
+}
+.compny-profile .user-info h6 {
+    font-size: 16px;
+    color: #fff;
+    margin: 0px;
+    font-weight: 200;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.compny-profile .user-info p {
+    color: #fff;
+    font-weight: bold;
+}
+.compny-profile .user-info p a {
+    font-size: 12px;
+    color: #999999;
+    text-decoration: underline;
+}
+.compny-profile .user-info .social-links {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.compny-profile .user-info .social-links a {
+    display: inline-block;
+    height: 36px;
+    width: 36px;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 34px;
+    font-size: 12px;
+    text-align: center !important;
+}
+.compny-profile .user-info .social-links {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.compny-profile .user-info .social-links a {
+    display: inline-block;
+    height: 36px;
+    width: 36px;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 50%;
+    line-height: 34px;
+    font-size: 12px;
+    text-align: center !important;
+}
+.compny-profile .user-info ul {
+    padding: 0px;
+}
+.compny-profile .user-info li {
+    list-style: none;
+    color: #fff;
+}
+.stars {
+    padding-left: 0;
+    list-style: none;
+    margin: 0;
+}
+.compny-profile .user-info li .stars i {
+    color: #0099ff;
+}
+.compny-profile .user-info li {
+    list-style: none;
+    color: #fff;
+}
+.compny-profile .user-info li p {
+    margin-bottom: 0px;
+    font-weight: normal;
+    font-size: 14px;
+}
+.compny-profile .user-info p {
+    color: #fff;
+    font-weight: bold;
+}
+.compny-profile .user-info .followr {
+    position: relative;
+}
+.compny-profile .user-info .followr ul {
+    margin-bottom: 0px;
+}
+.compny-profile .user-info ul {
+    padding: 0px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+ul, ol {
+    margin: 0 0 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+.compny-profile .user-info .followr li:nth-child(1) {
+    border-right: 1px solid rgba(255,255,255,0.2);
+}
+.compny-profile .user-info .followr li {
+    text-align: center;
+    padding: 15px 0;
+}
+.compny-profile .user-info li {
+    list-style: none;
+    color: #fff;
+}
+.compny-profile .user-info .followr p {
+    font-weight: normal;
+}
+.compny-profile .user-info li p {
+    margin-bottom: 0px;
+    font-weight: normal;
+    font-size: 14px;
+}
+.compny-profile .user-info p {
+    color: #fff;
+    font-weight: bold;
+}
+.compny-profile .user-info .followr li span {
+    color: #999999;
+    margin: 0px;
+}
+.right-top-bnr {
+    float: right;
+    margin-top: 50px;
+}
+.right-top-bnr a {
+    border: 1px solid #fff;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 4px;
+    font-size: 12px;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
+.right-top-bnr a i {
+    margin-right: 5px;
+}
+.right-top-bnr .bt-ns {
+    float: right;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.right-top-bnr .bt-ns a {
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    padding: 0px;
+    text-align: center;
+    line-height: 34px;
+}
+.right-top-bnr a {
+    border: 1px solid #fff;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 4px;
+    font-size: 12px;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
+.compny-profile .modal h6 a {
+    color: #fff;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    margin-right: 10px;
+    display: inline-block;
+    height: 26px;
+    width: 26px;
+    text-align: center;
+    line-height: 26px;
+}
+.compny-profile .modal ul {
+    padding: 0px;
+}
+.compny-profile .modal ul li {
+    list-style: none;
+}
+.compny-profile .modal form input {
+    border: none;
+    font-size: 14px;
+    font-weight: normal;
+    height: 45px;
+}
+.profile-company-content {
+    position: relative;
+    padding: 60px 0 70px 0;
+    background: #fff;
+}
+.profile-company-content.main-user .nav-tabs {
+    position: absolute;
+    top: -104px;
+}
+.profile-company-content .nav-tabs {
+    position: relative;
+    top: 0px;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.profile-company-content .nav-tabs li {
+    margin-right: 3px;
+    display: inline-block;
+    box-shadow: -1px -1px 2px rgba(206, 206, 206, 0.5);
+}
+.profile-company-content .nav-tabs li {
+    margin-right: 3px;
+    display: inline-block;
+}
+.profile-company-content.main-user .nav-tabs li.active a {
+    background: #f8f8f8;
+    color: #333333;
+}
+.profile-company-content.main-user .nav-tabs li a {
+    text-transform: none;
+    font-size: 16px;
+    color: #a2a2a2;
+    padding: 10px 20px;
+    background: #eeeeee;
+}
+.profile-company-content .nav-tabs li.active a {
+    background: #0099ff;
+    color: #fff;
+}
+.profile-company-content .nav-tabs li a {
+    padding: 9px 10px;
+    display: inline-block;
+    text-align: center;
+    min-width: 112px;
+    background: #fff;
+    color: #666666;
+    text-transform: uppercase;
+    font-size: 14px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.profile-company-content .sidebar {
+    position: relative;
+    padding: 21px;
+    display: inline-block;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+}
+.profile-company-content .sidebar {
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+.compny-profile .main-title {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0px;
+    border-bottom: 1px solid #f1f1f1;
+    padding-bottom: 10px;
+}
+.profile-company-content .sidebar .sidebar-thumbnail {
+    margin: 0 auto 30px auto;
+    padding: 4px;
+    text-align: center;
+    border: 1px solid #eaeaea;
+}
+.profile-company-content .sidebar .sidebar-thumbnail {
+    margin: 0 auto 30px auto;
+    padding: 4px;
+    text-align: center;
+    border: 1px solid #eaeaea;
+}
+.profile-company-content .sidebar .sidebar-thumbnail img {
+    margin: 0 auto;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.profile-company-content .sidebar .sidebar-information {
+    position: relative;
+}
+.profile-company-content .sidebar .sidebar-information {
+    position: relative;
+}
+.profile-company-content .sidebar .sidebar-information .single-category {
+    position: relative;
+}
+.profile-company-content .sidebar-information ul li {
+    padding: 0px;
+    list-style: none;
+}
+.profile-company-content .sidebar .sidebar-information .single-category .title {
+    margin-top: 0px;
+}
+.profile-company-content .sidebar .sidebar-information .single-category .title {
+    margin: 0px 0 5px 0;
+    font-size: 14px;
+}
+.profile-company-content .sidebar .sidebar-information .single-category .title {
+    font-size: 13px;
+    margin: 0px;
+    padding-right: 0px;
+    font-weight: normal;
+    line-height: 26px;
+}
+.profile-company-content .sidebar .sidebar-information .single-category .subtitle {
+    display: block;
+    color: #999999;
+}
+.profile-company-content .sidebar .sidebar-information .single-category .subtitle {
+    font-size: 13px;
+    font-weight: normal;
+}
+.profile-company-content.main-user .tab-content #profile {
+    background: none;
+}
+.profile-company-content .tab-content #profile {
+    padding: 0;
+    width: 100%;
+}
+.profile-company-content .tab-content #profile {
+    padding: 0;
+    width: 100%;
+}
+.profile-company-content .tab-content .tab-pane.active {
+    display: inline-block;
+    width: 100%;
+}
+.profile-main {
+    background: #fff;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 30px;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+    background: #fff;
+}
+.compny-profile .profile-company-content .tab-content h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0px;
+    border-bottom: 1px solid #f1f1f1;
+    padding: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.profile-company-content .tab-content h3 {
+    padding-top: 50px;
+    margin: 0 0 30px 0;
+    font-size: 23px;
+}
+.compny-profile .profile-in {
+    padding: 30px;
+    padding-top: 0px;
+}
+.compny-profile .profile-company-content .tab-content p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.compny-profile .profile-company-content .tab-content iframe {
+    border: none;
+    width: 100%;
+    height: 360px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+.profile-main {
+    background: #fff;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 30px;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+    background: #fff;
+}
+.compny-profile .profile-company-content .tab-content h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin-top: 0px;
+    border-bottom: 1px solid #f1f1f1;
+    padding: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+.profile-company-content .tab-content h3 {
+    padding-top: 50px;
+    margin: 0 0 30px 0;
+    font-size: 23px;
+}
+.compny-profile .profile-in {
+    padding: 30px;
+    padding-top: 0px;
+}
+.compny-profile .profile-serv .media {
+    margin: 15px 0;
+    margin-top: 30px;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.compny-profile .profile-serv .media-left {
+    display: table-cell;
+    vertical-align: top;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.compny-profile .profile-serv .icon {
+    height: 112px;
+    width: 112px;
+    line-height: 110px;
+    border-radius: 50%;
+    border: 1px solid #2aadde;
+    margin-right: 30px;
+}
+.compny-profile .profile-serv .media-body {
+    display: table-cell;
+    vertical-align: top;
+}
+.media-body {
+    width: 10000px;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.media-body, .media-left, .media-right {
+    display: table-cell;
+    vertical-align: top;
+}
+.media, .media-body {
+    overflow: hidden;
+    zoom: 1;
+}
+.compny-profile .profile-serv .media h6 {
+    margin-top: 0px;
+    font-weight: normal;
+    margin-bottom: 15px;
+}
+.compny-profile .profile-company-content .tab-content p {
+    font-size: 13px;
+    line-height: 22px;
+}
+.compny-profile .profile-serv .media {
+    margin: 15px 0;
+    margin-top: 30px;
+}
+.profile-company-content .tab-content .tab-pane {
+    display: none;
+}
+.profile-company-content .tab-content .tab-pane {
+    display: none;
+}
+.profile-company-content .tab-content .header-listing {
+    padding: 13px 20px;
+    margin-bottom: 30px;
+    width: 100%;
+    display: inline-block;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+}
+.profile-company-content .tab-content .header-listing {
+    padding: 13px 20px;
+    margin-bottom: 30px;
+    width: 100%;
+    display: inline-block;
+    background: #fff;
+    box-shadow: 0 0 5px rgba(206, 206, 206, 1);
+}
+.profile-company-content .tab-content #jobs .listing {
+    padding-bottom: 0;
+}
+.profile-company-content .tab-content .header-listing h6 {
+    margin: 10px 5px 5px 0;
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: top;
+    text-transform: uppercase;
+}
+.profile-company-content .tab-content .header-listing h6 {
+    margin: 10px 5px 5px 0;
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: top;
+    text-transform: uppercase;
+}
+.profile-company-content .tab-content .header-listing .custom-select-box {
+    width: 220px;
+    display: inline-block;
+}
+.profile-company-content .tab-content .header-listing .custom-select-box {
+    width: 220px;
+    display: inline-block;
+    height: 40px;
+    overflow: hidden;
+}
+.profile-company-content .tab-content .header-listing .custom-select-box {
+    width: 220px;
+    display: inline-block;
+}
+.profile-company-content .tab-content .header-listing .listing-views {
+    padding: 0;
+    margin: 4px 0 0 0;
+    float: right;
+    list-style: none;
+    display: inline-block;
+}
+.profile-company-content .tab-content #jobs .listing {
+    padding-bottom: 0;
+}
+.profile-company-content .tab-content .header-listing .listing-views li {
+    margin-left: 2px;
+    display: inline-block;
+    width: 27px;
+    height: 27px;
+    text-align: center;
+    line-height: 27px;
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+}
+.profile-company-content .tab-content #jobs .listing {
+    padding-bottom: 0;
+}
+.profile-company-content .tab-content .listing-ver-3 {
+    margin-bottom: 30px;
+}
+.listing.listing-1 .listing-ver-3 .listing-heading {
+    position: relative;
+    padding: 17px 24px;
+}
+.listing.listing-1 .listing-ver-3 .listing-heading h5 {
+    margin: 0;
+    display: inline-block;
+}
+.listing.listing-1 .listing-ver-3 .listing-heading .bookmark {
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+.listing.listing-1 .listing-ver-3 .listing-heading .bookmark li {
+    margin: 0;
+    padding: 0 4px;
+}
+.list-inline > li {
+    display: inline-block;
+    margin-right: 24px;
+}
+.listing.listing-1 .listing-ver-3 .listing-inner {
+    position: relative;
+    background: #fff;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+}
+.profile-company-content .form-side input {
+    border: 1px solid #eaeaea;
+    margin-bottom: 10px;
+    font-size: 14px;
+    height: 35px;
+    color: #333;
+}
+.banr-head input[type="email"], input[type="text"], input[type="password"] {
+    color: #fff;
+}
