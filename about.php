@@ -174,11 +174,11 @@
             <div class="sidebar">
               <h5 class="main-title">Contact</h5>
               <div class="sidebar-information form-side">
-                <form action="#">
-                  <input type="text" placeholder="Name & Surname">
-                  <input type="text" placeholder="E-mail address">
-                  <textarea placeholder="Your Message"></textarea>
-                  <button class="btn btn-primary">Send message</button>
+                <form action="#" class="col-md-12">
+                  <input type="text" class="col-md-12" placeholder="Name & Surname">
+                  <input type="text" class="col-md-12" placeholder="E-mail address">
+                  <textarea class="col-md-12" placeholder="Your Message"></textarea>
+                  <button class="btn btn-primary spacer-top-10">Send message</button>
                 </form>
               </div>
             </div>

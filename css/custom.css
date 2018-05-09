@@ -782,3 +782,13 @@ ul, ol {
 .banr-head input[type="email"], input[type="text"], input[type="password"] {
     color: #fff;
 }
+.profile-company-content .sidebar .sidebar-information {
+    position: relative;
+}
+.profile-company-content .sidebar form {
+    position: relative;
+    margin-bottom: 24px;
+}
+.spacer-top-10{
+    margin-top: 10px;
+}
